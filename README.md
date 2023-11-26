@@ -8,11 +8,11 @@
 
 ## Imagens do projeto:
 <div class='icon'>
-  <img src="https://github.com/pedrokli/projeto-fintech/assets/109765945/6d0efe04-c6bd-4f67-9c83-5a345b4d7713" width="420" height="300"/>
-  <img src="https://github.com/pedrokli/projeto-fintech/assets/109765945/1b73f594-2163-4dda-b07a-e61aab051863" width="420" height="300"/>
-  <img src="https://github.com/pedrokli/projeto-fintech/assets/109765945/51db40ee-c2fa-4a6c-a47d-657bcbfa1ba2" width="420" height="300"/>
-  <img src="https://github.com/pedrokli/projeto-fintech/assets/109765945/127aa464-181b-4580-bf53-adb74d4efdbc" width="420" height="300"/>
-  <img src="https://github.com/pedrokli/projeto-fintech/assets/109765945/97fcb827-702f-4711-b189-870ca03be6ef" width="420" height="300"/>
+  <img src="https://github.com/pedrokli/projeto-fintech/assets/109765945/6d0efe04-c6bd-4f67-9c83-5a345b4d7713" width="360" height="200"/>
+  <img src="https://github.com/pedrokli/projeto-fintech/assets/109765945/1b73f594-2163-4dda-b07a-e61aab051863" width="360" height="200"/>
+  <img src="https://github.com/pedrokli/projeto-fintech/assets/109765945/51db40ee-c2fa-4a6c-a47d-657bcbfa1ba2" width="360" height="200"/>
+  <img src="https://github.com/pedrokli/projeto-fintech/assets/109765945/127aa464-181b-4580-bf53-adb74d4efdbc" width="360" height="200"/>
+  <img src="https://github.com/pedrokli/projeto-fintech/assets/109765945/97fcb827-702f-4711-b189-870ca03be6ef" width="360" height="200"/>
 </div>
 
 ## Proposta
